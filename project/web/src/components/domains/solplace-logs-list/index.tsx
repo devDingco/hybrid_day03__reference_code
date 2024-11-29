@@ -14,7 +14,6 @@ import { ICONS } from "@/commons/constants/images";
 type TFetchBoards = {
   id: string;
   images: string[];
-  writer: string;
   title: string;
   contents: string;
   addressCity: string;
